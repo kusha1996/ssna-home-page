@@ -1,0 +1,59 @@
+
+.right{
+
+height:400px;
+margin-left:;
+ overflow:hidden;
+overflow;}
+
+.pull-right{
+
+}
+.navbar-nav li:hover{
+background-color:#333333;}
+.navbar-nav a{
+color:black;}
+
+h1{
+color:#300000 ;}
+
+body{
+background-image:url(rasgulla.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+
+color:}
+
+
+
+.navbar-inverse{
+background-color:#CCCCCC;
+hidden:true;
+color:#000000;}
+
+.kishore{
+border: ;
+height:300px;
+margin-top:20px;
+}
+
+
+.row{
+border: ;
+height:300px;
+margin-top:20px;}
+
+.contact{
+border: ;
+float:right;
+height:300px;
+margin-top:20px;
+
+}
+
+.footer{
+margin-top:10px;
+width:;
+height:20px;}/* CSS Document */
+
